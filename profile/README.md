@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="300" src="logo.png">
+    <img height="300" src="https://github.com/JosephsJewelers/.github/blob/main/logo.png">
 </p>
 
 # Josephs Jewelers - Family Owned Des Moines Jewelry Store
